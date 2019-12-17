@@ -70,7 +70,6 @@
                     @auth
                         <a href="{{ url('/jobs') }}">Jobs</a>
                         <a href="{{ url('/employees') }}">Employees</a>
-                        
                     @else
                         <a href="{{ route('login') }}">Login</a>
 
@@ -84,13 +83,13 @@
             <div class="content">
                 <div class="title m-b-md">
                     <!-- Isikan dengan username akun github anda -->
-                    reksadnml
+                    Reksa Dini Milenia
                 </div>
 
                 <div class="links">
                     <!-- ganti url dengan link github anda -->
                     <!-- <a href="#">GitHub</a> -->
-                    <a href="https://github.com/reksadnml/responsi-web2-15117" target="_blank">Link Github</a>
+                    18/425975/SV/15117
                 </div>
             </div>
         </div>
